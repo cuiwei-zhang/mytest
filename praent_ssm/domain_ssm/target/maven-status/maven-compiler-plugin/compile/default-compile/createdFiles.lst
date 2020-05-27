@@ -1,0 +1,4 @@
+org\example\domain\Traveller.class
+org\example\domain\Product.class
+org\example\domain\Member.class
+org\example\domain\Orders.class

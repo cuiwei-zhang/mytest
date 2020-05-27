@@ -1,0 +1,4 @@
+org\example\service\Impl\OrdersServiceImpl.class
+org\example\service\Impl\ProductServiceImpl.class
+org\example\service\IProductService.class
+org\example\service\IOrdersService.class
